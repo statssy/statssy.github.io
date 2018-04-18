@@ -4,6 +4,6 @@ title: Python
 slug: python
 category: devlog
 menu: false
-order: 2
+order: 3
 header-img: "/img/aws-logo.png"
 ---

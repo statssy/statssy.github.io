@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Psychology
 slug: psy
-category: review
+category: devlog
 menu: false
-order: 1
+order: 5
 ---
