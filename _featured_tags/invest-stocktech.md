@@ -2,7 +2,7 @@
 layout: tag-blog
 title: StockTechnical
 slug: stocktech
-category: game
+category: invest
 menu: false
 order: 1
 ---
