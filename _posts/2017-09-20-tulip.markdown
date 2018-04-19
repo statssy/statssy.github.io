@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[인문학] 이노베이터 딜레마"
+title:  "[인문학] 비트코인의 거품과 튤립 파동"
 subtitle:   "HUMAN"
 categories: review
 tags: human
