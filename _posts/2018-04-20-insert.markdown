@@ -2,7 +2,7 @@
 layout: post
 title:  "[깃허브] 깃허브 블로그에 유튜브 첨부 방법"
 subtitle:   "GITHUB"
-categories: review
+categories: devlog
 tags: github
 comments: true
 ---
