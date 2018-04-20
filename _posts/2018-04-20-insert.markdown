@@ -30,11 +30,12 @@ comments: true
 
 그리고나서 원하는 포스팅 파일에 이 코드를 삽입한다. 
 
-``````
-{% include youtubeplayer.html id="유튜브주소" %}
-``````
+```
+{% include youtubeplayer.htm엘 id="유튜브주소" %}
+```
+여기서 엘은 l로 바꾸자.
 
-id는 유튜브 주소(ex. https://www.youtube.com/watch?v=-MtOm4vuL3o)를 보면 ?v= 뒤에 있는 것을 말한다.
+ id는 유튜브 주소(ex. https://www.youtube.com/watch?v=-MtOm4vuL3o)를 보면 ?v= 뒤에 있는 것을 말한다.
 
 {% include youtubeplayer.html id="-MtOm4vuL3o" %}
 
