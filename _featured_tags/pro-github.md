@@ -2,8 +2,7 @@
 layout: tag-blog
 title: Github
 slug: github
-category: devlog
+category: pro
 menu: false
 order: 6
-header-img: "/img/aws-logo.png"
 ---

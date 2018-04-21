@@ -2,7 +2,7 @@
 layout: post
 title:  "[깃허브] 깃허브 블로그에 유튜브 첨부 방법"
 subtitle:   "GITHUB"
-categories: devlog
+categories: pro
 tags: github
 comments: true
 ---
@@ -33,7 +33,7 @@ comments: true
 ```
 {% include youtubeplayer.htm엘 id="유튜브주소" %}
 ```
-여기서 엘은 l로 바꾸자.
+여기서 엘은 l로 바꾸자.(자꾸 인클루드되서 창에 떠서..)
 
  id는 유튜브 주소(ex. https://www.youtube.com/watch?v=-MtOm4vuL3o)를 보면 ?v= 뒤에 있는 것을 말한다.
 

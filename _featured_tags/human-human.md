@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Humanities
 slug: human
-category: devlog
+category: human
 menu: false
 order: 4
 ---

@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Reinforcement
 slug: rein
-category: devlog
+category: pro
 menu: false
 order: 2
 ---
