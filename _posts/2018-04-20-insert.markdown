@@ -30,9 +30,8 @@ comments: true
 
 그리고나서 원하는 포스팅 파일에 이 코드를 삽입한다. 
 
-```
-{% include youtubeplayer(개인 취향 이름).html id="유튜브주소" %}
-```
+{% highlight html %} {% raw %} {% include 파일명.html id="유튜브동영상url" %} {% endraw %} {% endhighlight %}
+
 
  id는 유튜브 주소(ex. https://www.youtube.com/watch?v=-MtOm4vuL3o)를 보면 ?v= 뒤에 있는 것을 말한다.
 
