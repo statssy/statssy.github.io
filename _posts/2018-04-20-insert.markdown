@@ -25,13 +25,13 @@ comments: true
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen=""></iframe></div>
 ```
 
-이 코드를 집어 넣는다. 나는 **youtubeplayer.html**이라는 html 파일을 만들었다.
+이 코드를 집어 넣는다. 나는 **youtubeplayer(개인 취향 이름).html**이라는 html 파일을 만들었다.
 그리고 width와 height는 본인이 원하는대로 넣어도 된다. 
 
 그리고나서 원하는 포스팅 파일에 이 코드를 삽입한다. 
 
 ```
-{% include youtubeplayer.html id="유튜브주소" %}
+{% include youtubeplayer(개인 취향 이름).html id="유튜브주소" %}
 ```
 
  id는 유튜브 주소(ex. https://www.youtube.com/watch?v=-MtOm4vuL3o)를 보면 ?v= 뒤에 있는 것을 말한다.
