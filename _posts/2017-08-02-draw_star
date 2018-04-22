@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "[파이썬] 파이썬을 이용해서 별(6-points) 그리기"
+subtitle:   "PYTHON"
+categories: pro
+tags: python
+comments: true
+---
+
+
+### 파이썬을 이용해서 별(6-points) 그리기
+
+ * 이등변삼각형과 거꾸로 이등변삼각형을 합쳐서 6개의 포인트가 있는 별을 그리려 한다.
+
+ * 일단 입력을 할 수 있도록 input을 해준다.
+```
+print("별의 높이를 입력하세요.")
+height = int(input())
+```
+ * 공 리스트 x, y를 만들어준다. 그리고 그 리스트에 차례대로 입력값을 넣는다. 아래 식은 등차수열로 계산했다.
+```
+x=[]
+y=[]
+for loop1 in range(1, height+1):
+    x.append((height-loop1) * " " + ((2*loop1-1) * "*"))
+    y.append((loop1-1) * " " + ((2*height-2*loop1+1) * "*"))
+```
+
+ * insert를 이용해서 x의 끝과 y의 끝에 공백을 만들어 준다.
+
+    ```
+    for loop2 in range(2, height, 3):
+        print(loop2)
+        x.insert(height+loop2, ' ')
+        y.insert(0, ' ')
+    ```
+
+
+ * 공 리스트를 만들고 길이를 비교하여 긴쪽이 나올수 있게 if문을 써주었다.
+    ```
+    z=[]
+    for i in range(0, len(x)):
+    print(i) # 제대로 돌았나 확인
+    if len(x[i]) > len(y[i]):
+        z.append(x[i])
+    else:
+        z.append(y[i])
+print(z)
+    ```
+
+ * 리스트를 for문을 이용해서 차례대로 만듬
+```
+for j in z:
+    print(j)
+```
+
+그러면 이쁘게 별이 그려진다
+```
+   *
+*******
+ *****
+*******
+   *
+```
