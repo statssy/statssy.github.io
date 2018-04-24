@@ -6,10 +6,8 @@ categories: pro
 tags: python
 comments: true
 ---
+
 [파이썬 강좌_CS50_K-MOOC(가천대)유튜브](https://www.youtube.com/watch?v=8Q9N8E0RpDg&index=52&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz) 의 과제 중 노트와 노트북을 만들어 보겠습니다.
-
-
-## 
 
 class라는 것을 처음 배워서 약간 어렵긴했지만 강의를 반복해서 듣고 나서 이해를 함.
 아래 코드처럼 클래스를 이용해서 def들을 정의 해주면 됨.
