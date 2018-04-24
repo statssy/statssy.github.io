@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "[파이썬]파이썬으로 코인 시세를 가져오기"
+subtitle:   "PYTHON"
+categories: pro
+tags: python
+comments: true
+---
+나도 가상화폐에 관심이 있는 사람으로써 또 파이썬 팀랩 강좌에서 배운것을 토대로 코딩을 짜보려고 한다.
+
+## price 모듈 만들기
+
+아래와 같이 국내 가상화폐 거래소의 현재시세를 JSON형식으로 가져와서 함수에 저장을 한다.
+파일명을 price.py로 모듈을 만들어 import price를 해서 편하게 사용할 수 있도록 해놨다.
+그리고 이후에 BCH, XMR 등 도 나왔기 때문에 추가해주면 될 것 같다.
+
+```
+import json
+import urllib.request
+from urllib.request import Request, urlopen
+
+class bithumb:
+    urlTicker = urllib.request.urlopen('https://api.bithumb.com/public/ticker/all')
+    readTicker = urlTicker.read()
+    jsonTicker = json.loads(readTicker)
+    FindBTC = jsonTicker['data']['BTC']['closing_price']
+    BTC = int(FindBTC)
+    FindETH = jsonTicker['data']['ETH']['closing_price']
+    ETH = int(FindETH)
+    FindDASH = jsonTicker['data']['DASH']['closing_price']
+    DASH = int(FindDASH)
+    FindLTC = jsonTicker['data']['LTC']['closing_price']
+    LTC = int(FindLTC)
+    FindETC = jsonTicker['data']['ETC']['closing_price']
+    ETC = int(FindETC)
+    FindXRP = jsonTicker['data']['XRP']['closing_price']
+    XRP = int(FindXRP)
+
+class coinone:
+    urlTicker = urllib.request.urlopen('https://api.coinone.co.kr/ticker/?currency=all')
+    readTicker = urlTicker.read()
+    jsonTicker = json.loads(readTicker)
+    FindETC = jsonTicker['etc']['last']
+    ETC = int(FindETC)
+    FindBTC = jsonTicker['btc']['last']
+    BTC = int(FindBTC)
+    FindETH = jsonTicker['eth']['last']
+    ETH = int(FindETH)
+    FindXRP = jsonTicker['xrp']['last']
+    XRP = int(FindXRP)
+
+class korbit:
+    reqBTC = Request('https://api.korbit.co.kr/v1/ticker?currency_pair=btc_krw' , headers={'User-Agent': 'Mozilla/5.0'})
+    readBTC = urlopen(reqBTC).read()
+    jsonBTC = json.loads(readBTC)
+    FindBTC = jsonBTC['last']
+    BTC = int(FindBTC)
+    reqETH = Request('https://api.korbit.co.kr/v1/ticker?currency_pair=eth_krw' , headers={'User-Agent': 'Mozilla/5.0'})
+    readETH = urlopen(reqETH).read()
+    jsonETH = json.loads(readETH)
+    FindETH = jsonETH['last']
+    ETH = int(FindETH)
+    reqETC = Request('https://api.korbit.co.kr/v1/ticker?currency_pair=etc_krw' , headers={'User-Agent': 'Mozilla/5.0'})
+    readETC = urlopen(reqETC).read()
+    jsonETC = json.loads(readETC)
+    FindETC = jsonETC['last']
+    ETC = int(FindETC)
+    reqXRP = Request('https://api.korbit.co.kr/v1/ticker?currency_pair=xrp_krw' , headers={'User-Agent': 'Mozilla/5.0'})
+    readXRP = urlopen(reqXRP).read()
+    jsonXRP = json.loads(readXRP)
+    FindXRP = jsonXRP['last']
+    XRP = int(FindXRP)
+```
+
+
+이제 import price를 해서 데이터를 가지고 올 수 있다.
+
+```
+import price
+
+print(price.bithumb.BTC)
+print(price.coinone.XRP)
+print(price.korbit.ETH)
+```
+
+
+[참고]
+[파이썬3로 가상화폐 시세 정보 불러오기](https://i.k-june.com/wp/4560)
