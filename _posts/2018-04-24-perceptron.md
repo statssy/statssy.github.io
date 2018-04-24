@@ -72,7 +72,7 @@ plt.show()
 ```
 
 
-![png](/Users/mac/statssy_folder/statssy.github.io/assets/img/post_img/output_4_0.png)
+![png](/assets/img/post_img/output_4_0.png)
 
 
 
