@@ -8,11 +8,11 @@ comments: true
 ---
 [파이썬 강좌_CS50_K-MOOC(가천대)](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC/blob/master/lab_assignment/lab_7/READMD.md) 의 과제 중 하나였던 베이스볼 게임을 만들어 보도록 하겠습니다.
 
-
-## 
-
 랜덤한 3자리 정수를 만든다.
+
+```
 import random
+```
 
 ```
 def get_random_number():
