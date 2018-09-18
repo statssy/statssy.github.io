@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "[대시보드_S1]Course Overview"
+subtitle:   "PYTHON"
+categories: pro
+tags: python
+comments: true
+---
+
+##Interactive Python Dashboards with Plotly and Dash 
+
+이번에 'Interactive Python Dashboards with Plotly and Dash' 유데미 강좌를 듣고 오랜만에 블로그를 쓰려한다.
+
+먼저 코스 커리큘럼은
+
+- Introduction Section
+- Numpy & Pandas Crash Course(데이터셋 전처리 등등)
+- Plotly Basic harts and Plots(파이썬 시각화 라이브러리)
+- Dash Basics for Dashboards(대쉬 라이브러리로 대쉬보드를 웹으로 쏴주는거)
+- Advanced Dash Topics(복잡한 모양을 배움 멀티플 인풋같은거)
+- Code Along Milestone Project(지금 까지 배운걸 이 프로젝트로 써봄)
+- Live Real Time Updating(실시간으로 업데이트 하는 방법)
+- Deployment and Authorization(배포 승인 관련)
+
+으로 천천히 공부해 보려한다.
