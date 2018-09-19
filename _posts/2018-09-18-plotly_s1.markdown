@@ -7,7 +7,9 @@ tags: python
 comments: true
 ---
 
-##Interactive Python Dashboards with Plotly and Dash 
+# Interactive Python Dashboards with Plotly and Dash 
+
+---
 
 이번에 'Interactive Python Dashboards with Plotly and Dash' 유데미 강좌를 듣고 오랜만에 블로그를 쓰려한다.
 
@@ -15,7 +17,7 @@ comments: true
 
 - Introduction Section
 - Numpy & Pandas Crash Course(데이터셋 전처리 등등)
-- Plotly Basic harts and Plots(파이썬 시각화 라이브러리)
+- Plotly Basic Charts and Plots(파이썬 시각화 라이브러리)
 - Dash Basics for Dashboards(대쉬 라이브러리로 대쉬보드를 웹으로 쏴주는거)
 - Advanced Dash Topics(복잡한 모양을 배움 멀티플 인풋같은거)
 - Code Along Milestone Project(지금 까지 배운걸 이 프로젝트로 써봄)
@@ -23,3 +25,15 @@ comments: true
 - Deployment and Authorization(배포 승인 관련)
 
 으로 천천히 공부해 보려한다.
+
+---
+
+파이썬 깔기 -> 아톰 깔기-> 패키지에서 python찾아서 가장 많이 인스톨한거 받고 -> terminal이라고 쳐서 가장 인스톨 많이 한거 받고
+
+깃허브에서 받은 코드 파일에서 requirement.txt 파일에 인스톨할 패키지들이 있는데 일단 처음으로 받은 깃허브 폴더 들어가서 
+`conda creae --name mydashenv python=3.6`
+라고 치고
+`source activate mydashenv`
+로 가상환경 활성화 시키고(맥기준, 윈도우는 source빼기)
+`pip install -r requiremnet`
+로 인스톨 하면 끝이다.
