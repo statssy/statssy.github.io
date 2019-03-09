@@ -1,18 +1,17 @@
 ---
 layout: post
-title:  "[파이썬]파이썬으로 코인 시세를 가져오기"
+title:  "[파이썬]파이썬으로 주식 등 시세를 가져오기"
 subtitle:   "PYTHON"
 categories: pro
 tags: python
 comments: true
 ---
-나도 가상화폐에 관심이 있는 사람으로써 또 파이썬 팀랩 강좌에서 배운것을 토대로 코딩을 짜보려고 한다.
+파이썬 팀랩 강좌에서 배운것을 토대로 코딩을 짜보려고 한다.
 
 ## price 모듈 만들기
 
 아래와 같이 국내 가상화폐 거래소의 현재시세를 JSON형식으로 가져와서 함수에 저장을 한다.
 파일명을 price.py로 모듈을 만들어 import price를 해서 편하게 사용할 수 있도록 해놨다.
-그리고 이후에 BCH, XMR 등 도 나왔기 때문에 추가해주면 될 것 같다.
 
 ```
 import json
