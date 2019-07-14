@@ -483,7 +483,7 @@ msno.matrix(df=df_train.iloc[:, :], figsize=(8, 8), color=(0.8, 0.5, 0.2))
 
 
 
-![png](/_images/My_first_data_analysis_for_titanic_files/My_first_data_analysis_for_titanic_11_1.png)
+![png](/assets/img/post_img/My_first_data_analysis_for_titanic_files/My_first_data_analysis_for_titanic_11_1.png)
 
 
 
@@ -500,7 +500,7 @@ msno.bar(df=df_test.iloc[:, :], figsize=(8, 8), color=(0.8, 0.5, 0.2))
 
 
 
-![png](/_images/My_first_data_analysis_for_titanic_files/My_first_data_analysis_for_titanic_12_1.png)
+![png](/assets/img/post_img/My_first_data_analysis_for_titanic_files/My_first_data_analysis_for_titanic_12_1.png)
 
 
 
@@ -522,7 +522,7 @@ plt.show()
 ```
 
 
-![png](/_images/My_first_data_analysis_for_titanic_files/My_first_data_analysis_for_titanic_14_0.png)
+![png](/assets/img/post_img/My_first_data_analysis_for_titanic_files/My_first_data_analysis_for_titanic_14_0.png)
 
 
 ## 2.1 Pclass
@@ -729,7 +729,7 @@ df_train[['Pclass', 'Survived']].groupby(['Pclass'], as_index=True).mean().sort_
 
 
 
-![png](/_images/My_first_data_analysis_for_titanic_files/My_first_data_analysis_for_titanic_20_1.png)
+![png](/assets/img/post_img/My_first_data_analysis_for_titanic_files/My_first_data_analysis_for_titanic_20_1.png)
 
 
 
@@ -745,7 +745,7 @@ df_train[['Pclass', 'Survived']].groupby(['Pclass'], as_index=False).mean().sort
 
 
 
-![png](/_images/My_first_data_analysis_for_titanic_files/My_first_data_analysis_for_titanic_21_1.png)
+![png](/assets/img/post_img/My_first_data_analysis_for_titanic_files/My_first_data_analysis_for_titanic_21_1.png)
 
 
 
@@ -761,5 +761,5 @@ plt.show()
 ```
 
 
-![png](/_images/My_first_data_analysis_for_titanic_files/My_first_data_analysis_for_titanic_22_0.png)
+![png](/assets/img/post_img/My_first_data_analysis_for_titanic_files/My_first_data_analysis_for_titanic_22_0.png)
 
