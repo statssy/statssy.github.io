@@ -7,6 +7,14 @@ tags: python
 comments: true
 ---
 
+### 캐글 타이타닉 데이터 탐색
+파이썬으로 데이터 탐색하는 것을 해보려한다. 맨날 SQL과 엑셀로만 데이터분석을 해서 약간 실력도 줄어드는 것 같아서... 좋은 유튜브 영상이 있어서 따라서 해보려 한다.
+
+참고 : [You Han Lee 유튜브](https://www.youtube.com/watch?v=_iqz7tFhox0&list=PLC_wC_PMBL5MnqmgTLqDgu4tO8mrQakuF)
+
+### (참고)쥬피터 노트북 깃허븡 블로그에 올리기
+그리고 쥬피터 노트북을 바로 github post에 올리는 법을 몰랐는데 [GitHub 블로그에 Jupyter notebook 올리는 방법](https://chukycheese.github.io/translation/github/jupyter%20notebook/post-jupyter-notebooks-to-your-github-blog/) 여기 블로그를 보고 참고했다. 아직은 자동화방법은 모르겠어서 나중으로 미루려고한다 ㅎㅎ 하....
+
 ```python
 import numpy as np # 연산
 import pandas as pd # 데이터 프레임
