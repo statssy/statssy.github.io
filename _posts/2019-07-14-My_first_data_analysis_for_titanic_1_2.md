@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[파이썬]캐글 타이타닉 데이터 탐색"
+title:  "[파이썬]캐글 타이타닉 데이터 탐색 #1 #2"
 subtitle:   "PYTHON"
 categories: pro
 tags: python
