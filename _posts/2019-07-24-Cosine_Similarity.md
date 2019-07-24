@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[파이썬] Null값(NAN)이 있는 데이터 코사인 유사도(Cosine Simlarity) 구하기"
+title:  "[파이썬] Null값(NAN)이 있는 데이터 코사인 유사도(Cosine Similarity) 구하기"
 subtitle:   "PYTHON"
 categories: pro
 tags: python
