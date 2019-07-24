@@ -7,10 +7,9 @@ tags: python
 comments: true
 ---
 
-
-# 코사인 유사도(Cosine Simlarity)에서 Null값(NAN) 처리 하는 방법
-
 Cosine Similarity for matrix with NANs using Python
+코사인 유사도(Cosine Simlarity)에서 Null값(NAN) 처리 하는 방법
+
 ---
 - 코사인 유사도 식
 ![코사인 유사도 식](https://miro.medium.com/max/852/1*hub04IikybZIBkSEcEOtGA.png)  
