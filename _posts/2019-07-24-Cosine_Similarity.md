@@ -7,7 +7,8 @@ tags: python
 comments: true
 ---
 
-Cosine Similarity for matrix with NANs using Python
+Cosine Similarity for matrix with NANs using Python  
+
 코사인 유사도(Cosine Simlarity)에서 Null값(NAN) 처리 하는 방법
 
 ---
