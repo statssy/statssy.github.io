@@ -9,7 +9,7 @@ comments: true
 
 Cosine Similarity for matrix with NANs using Python  
 
-코사인 유사도(Cosine Simlarity)에서 Null값(NAN) 처리 하는 방법
+코사인 유사도(Cosine Similarity)에서 Null값(NAN) 처리 하는 방법
 
 ---
 - 코사인 유사도 식
@@ -28,7 +28,7 @@ Cosine Similarity for matrix with NANs using Python
 예를 들어 사용자A와 사용자B의 코사인 유사도를 공백(NAN)값으로 계산하게 된다면 값은 1이 나온다.
 그러나 공백(NAN)을 0으로 치환해서 계산하게 되면 0.172라는 계산이 나온다. 다시말해 값에 모순이 생기게 된다.  
 
-그렇다면 파이썬에서 어떻게 공백(NAN)값을 포함해서 코사인 유사도(Cosine Simlarity)를 계산할 수 있을 지 연구해보자.
+그렇다면 파이썬에서 어떻게 공백(NAN)값을 포함해서 코사인 유사도(Cosine Similarity)를 계산할 수 있을 지 연구해보자.
 
 ### 1. NAN을 0으로 치환 후 코사인 유사도를 계산하는 방법
 
