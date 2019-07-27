@@ -10,7 +10,7 @@ comments: true
 ### 캐글 타이타닉 데이터 탐색 #4 (나이)
 4번째 타이타닉 데이터 탐색을 해보려한다.
 
-참고 : [You Han Lee 유튜브](https://www.youtube.com/watch?v=35j4pCe-fQk&list=PLC_wC_PMBL5MnqmgTLqDgu4tO8mrQakuF&index=4)
+참고 : [You Han Lee 유튜브](https://youtu.be/35j4pCe-fQk)
 
 
 Age (나이)
