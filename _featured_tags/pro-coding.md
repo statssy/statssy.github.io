@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Reinforcement
-slug: rein
+title: CodingTest
+slug: coding
 category: pro
 menu: false
-order: 5
+order: 2
 ---

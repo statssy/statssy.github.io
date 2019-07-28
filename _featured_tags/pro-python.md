@@ -4,5 +4,5 @@ title: Python
 slug: python
 category: pro
 menu: false
-order: 3
+order: 1
 ---
