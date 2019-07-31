@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  " 과점시장과 존 내쉬의 게임이론 "
-subtitle:   "HUMANITIES"
+subtitle:   "Theory"
 categories: human
-tags: humanities
+tags: Theory
 comments: true
 ---
 
