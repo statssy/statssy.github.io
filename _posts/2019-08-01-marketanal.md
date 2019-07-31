@@ -3,7 +3,7 @@ layout: post
 title:  " 마케팅 성과 지표에 관하여 "
 subtitle:   "Marketing"
 categories: human
-tags: Marketing
+tags: market
 comments: true
 ---
 

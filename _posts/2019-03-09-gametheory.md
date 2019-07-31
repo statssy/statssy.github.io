@@ -3,7 +3,7 @@ layout: post
 title:  " 과점시장과 존 내쉬의 게임이론 "
 subtitle:   "Theory"
 categories: human
-tags: Theory
+tags: theory
 comments: true
 ---
 
