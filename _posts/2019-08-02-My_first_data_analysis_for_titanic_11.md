@@ -8,7 +8,7 @@ comments: true
 ---
 
 
-# 11. Feature engineering - Change string to categoricla and Pearson coefficient
+# 11. Feature engineering - Change string to categorical and Pearson coefficient
 
 
 ```python
