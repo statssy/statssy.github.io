@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "[Python_알고리즘공부] 파이썬 입력함수(input)"
