@@ -33,7 +33,7 @@ comments: true
 
 - 검토 / 감사 서비스 분야
   
-!(그림1)[https://mblogthumb-phinf.pstatic.net/20151013_222/uscpalicense_1444704996049fFpa6_PNG/%B0%A8%BB%E7%BF%C0%B7%F9%C0%A7%C7%E8.png?type=w2]  
+![그림1](https://mblogthumb-phinf.pstatic.net/20151013_222/uscpalicense_1444704996049fFpa6_PNG/%B0%A8%BB%E7%BF%C0%B7%F9%C0%A7%C7%E8.png?type=w2)  
 
 1종 오류가 발생하면 피감사인은 감사결과에 불응할 것이고, 재감사 요청할 가능성이 큼.
 따라서 추가 시간을 소비해야 하므로 효율성(efficiency)이 떨어짐.
@@ -48,7 +48,7 @@ comments: true
   
 - 인력 채용 분야
   
-!(그림2)[https://mblogthumb-phinf.pstatic.net/20151013_52/uscpalicense_1444705167213wRDG9_PNG/%C0%CE%B7%C2%C3%A4%BF%EB.png?type=w2]  
+![그림2](https://mblogthumb-phinf.pstatic.net/20151013_52/uscpalicense_1444705167213wRDG9_PNG/%C0%CE%B7%C2%C3%A4%BF%EB.png?type=w2)   
 
 결론) 1종 오류가 일어나면 포지션에 적합한데 채용하지 않은거니까 **비효과적** 이고
 2종 오류가 일어나면 포지션에 맞지 않은데 채용한거니까 **비효율적**으로 일할거니까 능력보충을 시키거나 적한한 직원을 다시 뽑아야할 것.
@@ -58,7 +58,7 @@ comments: true
   
 - 시약 검사 분야
   
-!(그림3)[https://mblogthumb-phinf.pstatic.net/20151013_81/uscpalicense_144470518247321NTP_PNG/%BD%C3%BE%E0%B0%CB%BB%E7.png?type=w2]   
+![그림3](https://mblogthumb-phinf.pstatic.net/20151013_81/uscpalicense_144470518247321NTP_PNG/%BD%C3%BE%E0%B0%CB%BB%E7.png?type=w2)   
 
 결론 : 정상(임신아님)이라고 하면, 1종 오류의 경우 임신이 아닌데 양성이 나왔으니까 재검을 통해서 시정 되겠지만,
 2종 오류가 나오면 임신인데 아니라고 했으니까 모른채 배가 불러오겠지... 그러므로 2종 오류가 더 위험한거 같다.
@@ -67,7 +67,7 @@ comments: true
   
 - 침입 탐지 / 사용자 인증
   
-!(그림4)[https://mblogthumb-phinf.pstatic.net/20151013_53/uscpalicense_1444705197235Ti69l_PNG/%C4%A7%C0%D4%C5%BD%C1%F6.png?type=w2]  
+![그림4](https://mblogthumb-phinf.pstatic.net/20151013_53/uscpalicense_1444705197235Ti69l_PNG/%C4%A7%C0%D4%C5%BD%C1%F6.png?type=w2)  
 
 결론 :  1종오류(침입이 없는데 or 회원이 맞는데 침입했다고 경보 or 접속이 안됨)인 경우 잘못된 탐지니까 서비스업나 소매 업체는 사용자의 편의성이 낮아지므로 중요
 2종오류는(침입자를 못잡아내거나, 회원이 아닌데 접속이 되는 경우)는 군사조직이나 보안이 철저해야 한 곳은 중요하다.
