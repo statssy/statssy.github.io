@@ -13,13 +13,13 @@ url:                 https://statssy.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             I feel like a Data Scientist
+tagline:             매일 꾸준히, 그러나 조금씩 채워가는 블로그
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  I am a Game Data Analyst
-  How do I become a Data Scientist?
+  I am a Data Analyst
+  Faithfulness makes all things possible
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
