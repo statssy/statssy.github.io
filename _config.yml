@@ -18,8 +18,7 @@ tagline:             매일 꾸준히, 그러나 조금씩 채워가는 블로�
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  I am a Data Analyst
-  Faithfulness makes all things possible
+  I determine my future all by myself
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
