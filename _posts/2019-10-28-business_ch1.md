@@ -3,7 +3,7 @@ layout: post
 title:  "[비지니스영어] 비즈니스 영어 이메일을 틀리지 않고 쓰는법 CH1"
 subtitle:   "Business"
 categories: english
-tags: med
+tags: busi
 comments: true
 ---
 
