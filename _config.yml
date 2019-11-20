@@ -13,7 +13,7 @@ url:                 https://statssy.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             매일 꾸준히, 조금씩 채워가는 블로그, 1시간 공부를 내것으로 정리하려면 4시간이 걸린다.
+tagline:             매일 꾸준히, 조금씩 채워가는 블로그
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
