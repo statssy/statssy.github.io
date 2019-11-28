@@ -8,7 +8,7 @@ isme2n:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I am a Game Data Analyst
+    I am a Data Analyst
     How do I become a Data Scientist?
 
   # This photo will be used in the about section
