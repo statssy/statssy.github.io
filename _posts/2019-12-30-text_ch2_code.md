@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "파이썬으로 배우는 응용텍스트 분석(Ch2. 사용자 정의 말뭉치 구축) 코딩부분"
+title:  "[책요약]파이썬으로 배우는 응용텍스트 분석(Ch2. 사용자 정의 말뭉치 구축) 코딩부분"
 subtitle:   "NLP"
 categories: pro
 tags: nlp
