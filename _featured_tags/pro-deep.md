@@ -4,5 +4,5 @@ title: DeepLearning
 slug: deep
 category: pro
 menu: false
-order: 3
+order: 4
 ---
