@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Reinforcement
-slug: rein
+title: NLP
+slug: nlp
 category: pro
 menu: false
-order: 5
+order: 3
 ---
