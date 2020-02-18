@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "[영어공부_넷플릭스] Love Is Blind(2020) 시즌1 1화 모르는 단어 및 문장 정리"
+subtitle:   "Media"
+categories: english
+tags: med
+comments: true
+---
+
+
+### [단어 정리 #1] - 20.02.19 정리
+- based off of : based on 하고 똑같은 뜻으로 쓰임
+- commitment : 헌신 e.g) They want commitment
+- Not ~ But ~ : e.g) Not what I look like, but for who I am on the inside.
+- out there : 저 밖에 : e.g) there are women out there that won't date guys that are shorter.
+- bummer : 실망이다 e.g) It's bummer
+- get down to : 어떤 일을 시작하다 e.g) but being in this facility, we're really getting down to what matters most.
+
+### [실제 예문 #1]- 20.02.19 정리
+```
+["Go Get What You Want" playing.]
+You're walking through your memories You're looking for an answer Don't wanna waste your days away 
+[man 1.]
+When I heard about this experiment, I knew it was for me.
+It was the opposite of what modern dating has become.
+[woman 1.]
+There's so many dating apps, and most of them are based off of your physical appearance.
+[man 2.]
+It's not all about physical attraction, in the long run.
+It's who's holding your hand on your deathbed.
+[woman 2.]
+The reason I came here is there's men who actually want to get married, they want commitment.
+They're looking for wives.
+I'm like, "What? Where?" 
+["Go Get What You Want" continues.]
+Wash your fears away Away Your heart is singing out You're breaking through the clouds Go get what you want Go get what you want 
+[gasps.]
+- Wow.
+- Hi! [woman laughing.]
+[Briana.]
+I'm Briana! I really want a man who is going to love me for me.
+Not what I look like, but for who I am on the inside.
+When we're 95 years old, my boobs might be, like, dragging on the floor, but I need you to love my saggy boobs.
+That was real extra, but that's really how I feel.
+Oh, shit.
+This is dope.
+Oh, man! I'm short, and there are women out there that won't date guys that are shorter.
+Westley.
+It's a bummer, but being in this facility, we're really getting down to what matters most.
+```
