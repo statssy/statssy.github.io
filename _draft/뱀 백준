@@ -1,0 +1,16 @@
+
+# 동 북 서 남
+def direction(d, r) :
+    x = [0, 1, 0 ,-1]
+    y = [1, 0, -1, 0]
+    if r == 'D' :
+        dx, dy = x[d+1], y[d+1]
+    elif r == 'L' :
+        dx, dy = x[d-1], y[d-1]
+
+def next_snake(a, d) :
+    if 
+def apple_snake
+
+
+snake_lst = [[0,0]]
