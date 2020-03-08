@@ -7,13 +7,13 @@ tags: deep
 comments: true
 ---
 
-주피터 노트북으로 시각화한 OpenCV를 활용한 성별 및 나이 판별하기 (파이썬)
 
+참고 사이트에서 본 코드와 내가 주피터 노트북(jupyter notebook)에서 시각화를 할 수 있게 조금의 튜닝을 해보았다.  
 
 참고 : [Interesting Python Project of Gender and Age Detection with OpenCV](https://data-flair.training/blogs/python-project-gender-age-detection/?fbclid=IwAR1d43CEOg-5dnzxPTxE06uB60leOzBKe30bRZewVvsM88V7v6TmTN9GDYI)
   
-: 참고 사이트에서 본 코드와 내가 주피터 노트북(jupyter notebook)에서 시각화를 할 수 있게 조금의 튜닝을 해보았다.  
-  
+---
+# 주피터 노트북으로 시각화한 OpenCV를 활용한 성별 및 나이 판별하기 (파이썬) 
   
 ---
 
