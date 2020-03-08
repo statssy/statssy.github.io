@@ -104,6 +104,7 @@ cv2.imshow("Detecting age and gender", resultImg)
 ```
 ->
 ```python
+from matplotlib import pyplot as plt
 b, g, r = cv2.split(resultImg)
 image2 = cv2.merge([r, g, b])
 plt.imshow(image2)
@@ -114,13 +115,12 @@ plt.show()
 로 변경 하였다.
 
 ```python
-#!pip install matplotlib 
+!pip install matplotlib 
 ```
    
 
-
 ```python
-# !pip install open-python
+!pip install open-python
 ```
 
 
