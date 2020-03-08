@@ -63,13 +63,13 @@ comments: true
 
 1. 파일 다운로드 : [모델 다운로드](https://drive.google.com/file/d/1yy_poZSFAPKi0y2e2yj9XDe1N8xXYuKB/view)
   
-- opencv_face_detector.pbtxt : 얼굴을 감지 하기 위한 파일. 텍스트 포맷. 텐서플로우 파일
-- opencv_face_detector_uint8.pb : 얼굴을 감지 하기 위한 파일. 프로토콜 버퍼 파일. 모델의 훈련된 가중치와 그래프 definition. 이진 포맷
-- age_deploy.prototxt : 연령에 대한 네트워크 구성 설정
-- age_net.caffemodel : 연령에 대한 레이어 매개 변수의 내부 상태를 정의
-- gender_deploy.prototxt :성별에 대한 네트워크 구성
-- gender_net.caffemodel : 성별에 대한 레이어 매개 변수의 내부 상태를 정의
-- a few pictures to try the project on
+  - opencv_face_detector.pbtxt : 얼굴을 감지 하기 위한 파일. 텍스트 포맷. 텐서플로우 파일
+  - opencv_face_detector_uint8.pb : 얼굴을 감지 하기 위한 파일. 프로토콜 버퍼 파일. 모델의 훈련된 가중치와 그래프 definition. 이진 포맷
+  - age_deploy.prototxt : 연령에 대한 네트워크 구성 설정
+  - age_net.caffemodel : 연령에 대한 레이어 매개 변수의 내부 상태를 정의
+  - gender_deploy.prototxt :성별에 대한 네트워크 구성
+  - gender_net.caffemodel : 성별에 대한 레이어 매개 변수의 내부 상태를 정의
+  - a few pictures to try the project on
     
 2. argparse 라이브러리로 argument parser를 만든다.
 
