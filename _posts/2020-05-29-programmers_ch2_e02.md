@@ -7,9 +7,9 @@ tags: coding
 comments: true
 ---
 
-## 코딩테스트 연습 - 해시
+## 코딩테스트 연습 - 다리를 지나는 트럭 (파이썬)
 
-[코딩테스트 연습 - 해시](https://programmers.co.kr/learn/courses/30/lessons/42583)를 풀어본다.
+[코딩테스트 연습 - 다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)를 풀어본다.
   
 
 - queue 에서 pop(0)로 하면 속도가 나오지 않기 때문에 deque를 이용해서 popleft(0)로 뽑아 냈다.
