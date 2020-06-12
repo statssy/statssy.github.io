@@ -24,9 +24,9 @@ def solution(answers):
     supo_1 = [1, 2, 3, 4, 5]
     supo_2 = [2, 1, 2, 3, 2, 4, 2, 5]
     supo_3 = [3, 3, 1, 1, 2, 2, 4, 4, 5, 5]
-    supo_1_lst = supo_1_lst = (supo_1*len(answers))[:len(answers)]
-    supo_2_lst = supo_2_lst = (supo_2*len(answers))[:len(answers)]
-    supo_3_lst = supo_3_lst = (supo_3*len(answers))[:len(answers)]
+    supo_1_lst = (supo_1*len(answers))[:len(answers)]
+    supo_2_lst = (supo_2*len(answers))[:len(answers)]
+    supo_3_lst = (supo_3*len(answers))[:len(answers)]
     for i in range(len(answers)):
         if answers[i] == supo_1_lst[i]:
             cnt_1 += cnt_1 + 1
