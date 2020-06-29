@@ -42,3 +42,4 @@ def solution(n, costs):
     
     return answer
 ```
+[참고 블로그](https://codedrive.tistory.com/164)
