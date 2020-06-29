@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "[프로그래머스] 구명보트 - 단속카메라 (파이썬) - Statssy"
+title:  "[프로그래머스] 탐욕법 - 단속카메라 (파이썬) - Statssy"
 subtitle:   "CodingTest"
 categories: pro
 tags: coding
 comments: true
 ---
 
-## 코딩테스트 연습 - 구명보트 - 단속카메라 (파이썬)
+## 코딩테스트 연습 - 탐욕법 - 단속카메라 (파이썬)
 
-[코딩테스트 연습 - 구명보트 - 단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)를 풀어본다.
+[코딩테스트 연습 - 탐욕법 - 단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)를 풀어본다.
   
 
 - 각 이동 경로당 나간 지점(최종점) 순으로 정렬을 시킨다(왜냐면 그래야 순서대로 카메라를 세울 수 있다.) -> 카메라 세운 자리에 다른 경로도 포함하면 체킹해준다. 복잡도 O(N^2)
