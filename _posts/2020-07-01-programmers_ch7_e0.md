@@ -129,7 +129,7 @@ for i in range(11):
     34
     55
 
-[참고 사이트](https://comdoc.tistory.com/entry/33-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98%EC%97%B4%EA%B3%BC-%EB%8F%99%EC%A0%81-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)를 풀어본다.
+[참고 사이트](https://comdoc.tistory.com/entry/33-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98%EC%97%B4%EA%B3%BC-%EB%8F%99%EC%A0%81-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)를 참고하였다.
   
 
 
