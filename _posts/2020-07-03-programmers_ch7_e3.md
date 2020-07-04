@@ -14,10 +14,10 @@ comments: true
 
 - 동적계획법 문제인지는 바로 알겠다. 위의 답들이 아래에 영향을 주니까.
 - 맨 끝 들은 계산이 한번 되지만 중간에 낀 애들은 위 stair에서 Max값을 가져오면 쉽게(?) 풀수 있다. 참고로 난 쉽지 않았다.
-
-
-![20200704_130842](https://user-images.githubusercontent.com/28734765/86504845-82125500-bdf8-11ea-852a-fc4265c30783.jpg =250x)
-
+  
+  
+<img src="https://user-images.githubusercontent.com/28734765/86504845-82125500-bdf8-11ea-852a-fc4265c30783.jpg" width="60%">
+  
 
 ### 내 코드
 ```python
