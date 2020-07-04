@@ -17,11 +17,10 @@ comments: true
 ## DFS와 BFS에 관하여  
 - DFS : 깊이 우선 탐색(DEPTH FISRT SEARCH) 말그대로 DEPTH(깊이)로 오지게 파고 들어가는 형식이다. 그럴려면 스택 형식으로 최근에 넣은거 빼야 되므로 pop()을 쓰면 됨. 시간 복잡도는 O(V+N) 노드수+간선수
 - BFS : 너비 우선 탐색(BREADTH FIRST SEARCH) 이거 또한 말그대로 BREADTH(너비=폭) 같은 폭에 있는(약간 같은 층 개념)에 있는 애들부터 뺴는 형식으로 큐를 쓴다. pop(0) 쓰면 됨 시간복잡도 DFS랑 같음
-
-
-- 참고 사이트(이거 그림 보고 공부하면 아주 이해 잘됨)
-[깊이 우선 탐색(DFS)](https://www.fun-coding.org/Chapter18-dfs-live.html)
-[너비 우선 탐색(BFS)](https://www.fun-coding.org/Chapter18-bfs-live.html)
+  
+- 참고 사이트(이거 그림 보고 공부하면 아주 이해 잘됨)  
+[깊이 우선 탐색(DFS)](https://www.fun-coding.org/Chapter18-dfs-live.html)  
+[너비 우선 탐색(BFS)](https://www.fun-coding.org/Chapter18-bfs-live.html)  
 
 ### 데이터 
 
