@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "[생활코딩] 파이썬 데코레이터 요약본"
+title:  "[코딩도장] 파이썬 데코레이터 요약본"
 subtitle:   "PYTHON"
 categories: pro
 tags: python
 comments: true
 ---
 
-생활코딩 강의를 보고 파이썬의 데코레이터 요약하려 한다.
+코딩도장 강의를 보고 파이썬의 데코레이터 요약하려 한다.
 
 
 
