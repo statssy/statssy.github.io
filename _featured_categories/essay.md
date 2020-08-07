@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Algorithm
-slug: alg
+title: Essay
+slug: essay
 menu: true
-submenu: true
-order: 3
+submenu: false
+order: 1
 description: >
-  알고리즘, 코딩테스트에 관한 글을 씁니다.
+  평소 생각들과 쓰고 싶은 글을 쓰는 곳입니다.
 ---
