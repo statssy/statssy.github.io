@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "[코드정리]Web Scraping with Python(Ch02. 고급 HTML 분석)"
-subtitle:   "PYTHON"
-categories: pro
-tags: python
+subtitle:   "WebScraping"
+categories: data
+tags: scrap
 comments: true
 ---
 

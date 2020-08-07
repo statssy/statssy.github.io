@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "[DBS 요약] 신한카드 초개인화 마케팅 프로젝트"
-subtitle:   "Marketing"
+subtitle:   "Business"
 categories: human
-tags: market
+tags: busi
 comments: true
 ---
 

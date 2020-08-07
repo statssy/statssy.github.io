@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[시각화] 포스트에 Interactive Graph 넣기"
-subtitle:   "PYTHON"
-categories: pro
-tags: python
+title:  "[시각화] 깃허브 블로그에 Interactive Graph 넣기"
+subtitle:   "CSS"
+categories: dev
+tags: css
 comments: true
 ---
 

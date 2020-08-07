@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "[케라스]_(1.1) 케라스로 퍼셉트론 프로그래밍하기"
-subtitle:   "DEEPLEARNING"
-categories: pro
+subtitle:   "DeepLearning"
+categories: data
 tags: deep
 comments: true
 ---

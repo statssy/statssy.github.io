@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "[파이썬] Null값(NAN)이 있는 데이터 코사인 유사도(Cosine Similarity) 구하기"
-subtitle:   "PYTHON"
-categories: pro
+subtitle:   "Python"
+categories: dev
 tags: python
 comments: true
 ---

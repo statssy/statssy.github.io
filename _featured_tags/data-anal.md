@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Psychology
-slug: psy
-category: human
+title: Analysis
+slug: anal
+category: data
 menu: false
 order: 5
 ---

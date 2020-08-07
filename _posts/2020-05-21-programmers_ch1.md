@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "[프로그래머스] 코딩테스트 연습 - 해시 (파이썬)"
-subtitle:   "CodingTest"
-categories: pro
-tags: coding
+subtitle:   "프로그래머스"
+categories: alg
+tags: prs
 comments: true
 ---
 

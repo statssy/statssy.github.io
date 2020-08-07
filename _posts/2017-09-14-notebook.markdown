@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "[파이썬]노트, 노트북 만들기"
-subtitle:   "PYTHON"
-categories: pro
+subtitle:   "Python"
+categories: dev
 tags: python
 comments: true
 ---

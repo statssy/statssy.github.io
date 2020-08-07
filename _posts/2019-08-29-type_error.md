@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  " [일반통계학]1종 오류가 중요할까? 2종 오류가 중요할까? 예시 "
-subtitle:   "Theory"
-categories: human
-tags: theory
+subtitle:   "Statistics"
+categories: data
+tags: stat
 comments: true
 ---
 

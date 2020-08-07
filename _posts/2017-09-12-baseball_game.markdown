@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "[파이썬]베이스볼 게임 만들기"
-subtitle:   "PYTHON"
-categories: pro
+subtitle:   "Python"
+categories: dev
 tags: python
 comments: true
 ---

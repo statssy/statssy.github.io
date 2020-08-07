@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "[파이썬] 클래스(class)에 관하여 쉽게 정리"
-subtitle:   "PYTHON"
-categories: pro
+subtitle:   "Python"
+categories: dev
 tags: python
 comments: true
 ---

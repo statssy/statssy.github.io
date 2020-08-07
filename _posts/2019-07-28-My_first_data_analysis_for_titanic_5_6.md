@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "[파이썬]캐글 타이타닉 데이터 탐색 #5, #6(Violinplot, EDA-Embarked)"
-subtitle:   "PYTHON"
-categories: pro
-tags: python
+subtitle:   "Analysis"
+categories: data
+tags: anal
 comments: true
 ---
 

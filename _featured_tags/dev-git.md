@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Food
-slug: food
-category: review
+title: Git
+slug: git
+category: dev
 menu: false
 order: 2
 ---

@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Github
-slug: github
-category: pro
+title: WebScraping
+slug: scrap
+category: data
 menu: false
 order: 6
 ---

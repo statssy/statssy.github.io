@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "[코딩도장] 파이썬 데코레이터 요약본"
-subtitle:   "PYTHON"
-categories: pro
+subtitle:   "Python"
+categories: dev
 tags: python
 comments: true
 ---

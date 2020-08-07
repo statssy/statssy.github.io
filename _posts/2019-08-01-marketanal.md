@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  " 마케팅 성과 지표에 관하여 "
-subtitle:   "Marketing"
+subtitle:   "Business"
 categories: human
-tags: market
+tags: busi
 comments: true
 ---
 

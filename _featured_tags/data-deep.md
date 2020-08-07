@@ -2,7 +2,7 @@
 layout: tag-blog
 title: DeepLearning
 slug: deep
-category: pro
+category: data
 menu: false
-order: 4
+order: 3
 ---

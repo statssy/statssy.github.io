@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Music
-slug: music
-category: review
+title: NLP
+slug: nlp
+category: data
 menu: false
 order: 2
 ---

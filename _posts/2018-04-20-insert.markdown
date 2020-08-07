@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[깃허브] 깃허브 블로그에 유튜브 첨부 방법"
-subtitle:   "GITHUB"
-categories: pro
-tags: github
+title:  "[깃허브블로그] 유튜브 첨부 방법"
+subtitle:   "CSS"
+categories: dev
+tags: css
 comments: true
 ---
 

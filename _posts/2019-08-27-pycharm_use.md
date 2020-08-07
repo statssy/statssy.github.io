@@ -2,7 +2,7 @@
 layout: post
 title:  "[파이참]파이참을 써야되는 이유 및 단축키"
 subtitle:   "PYTHON"
-categories: pro
+categories: dev
 tags: python
 comments: true
 ---

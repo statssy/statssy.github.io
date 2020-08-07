@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "[코드정리]Web Scraping with Python(Ch01. 첫 번째 웹 스크레이퍼)"
-subtitle:   "PYTHON"
-categories: pro
-tags: python
+subtitle:   "WebScraping"
+categories: data
+tags: scrap
 comments: true
 ---
 웹 크롤링을 할 일이 생겨서 차근차근 공부해 보려한다. 

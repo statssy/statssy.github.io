@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "[파이썬]파이썬을 이용해서 별(6-points) 그리기"
-subtitle:   "PYTHON"
-categories: pro
+subtitle:   "Python"
+categories: dev
 tags: python
 comments: true
 ---

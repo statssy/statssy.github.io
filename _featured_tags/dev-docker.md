@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Docker
 slug: docker
-category: pro
+category: dev
 menu: false
-order: 8
+order: 5
 ---

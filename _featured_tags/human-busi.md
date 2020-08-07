@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Event
-slug: event
-category: review
+title: Business
+slug: busi
+category: human
 menu: false
 order: 1
 ---

@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Marketing
-slug: market
+title: Philosophy
+slug: phil
 category: human
 menu: false
-order: 1
+order: 3
 ---

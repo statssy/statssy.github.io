@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: CodingTest
-slug: coding
-category: pro
+title: Psychology
+slug: psy
+category: soci
 menu: false
 order: 2
 ---

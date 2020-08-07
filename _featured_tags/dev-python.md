@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Things
-slug: things
-category: review
+title: Python
+slug: python
+category: dev
 menu: false
 order: 1
 ---

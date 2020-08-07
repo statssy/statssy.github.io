@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "[프로그래머스] 힙(Heap) - 디스크 컨트롤러 (파이썬) - Statssy"
-subtitle:   "CodingTest"
-categories: pro
-tags: coding
+subtitle:   "프로그래머스"
+categories: alg
+tags: prs
 comments: true
 ---
 

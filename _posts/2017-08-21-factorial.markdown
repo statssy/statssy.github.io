@@ -1,9 +1,8 @@
-
 ---
 layout: post
 title:  "[파이썬]팩토리얼(Factorial) 계산기 만들기"
-subtitle:   "PYTHON"
-categories: pro
+subtitle:   "Python"
+categories: dev
 tags: python
 comments: true
 ---

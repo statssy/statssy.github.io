@@ -2,7 +2,7 @@
 layout: tag-blog
 title: CSS
 slug: css
-category: pro
+category: dev
 menu: false
-order: 7
+order: 4
 ---

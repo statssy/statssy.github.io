@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: News
-slug: news
-category: review
+title: Economics
+slug: eco
+category: soci
 menu: false
 order: 1
 ---

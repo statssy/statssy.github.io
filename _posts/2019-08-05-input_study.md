@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Python_알고리즘공부] 파이썬 입력함수(input)"
+title:  "[알고리즘] 입력함수(input)"
 subtitle:   "CodingTest"
-categories: pro
+categories: dev
 tags: coding
 comments: true
 ---

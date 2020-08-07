@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "[동적 프로그래밍] 피보나치 수열 문제 이론 (파이썬)- Statssy"
-subtitle:   "CodingTest"
-categories: pro
-tags: coding
+subtitle:   "프로그래머스"
+categories: alg
+tags: prs
 comments: true
 ---
 

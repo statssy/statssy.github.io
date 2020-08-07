@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Movie
-slug: movie
-category: review
+title: History
+slug: hist
+category: human
 menu: false
 order: 2
 ---

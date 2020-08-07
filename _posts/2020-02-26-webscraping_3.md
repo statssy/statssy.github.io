@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "[코드정리]Web Scraping with Python(Ch03. 크롤링 시작하기)"
-subtitle:   "PYTHON"
-categories: pro
-tags: python
+subtitle:   "WebScraping"
+categories: data
+tags: scrap
 comments: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "[대시보드_S1]Course Overview"
-subtitle:   "PYTHON"
-categories: pro
+subtitle:   "Python"
+categories: dev
 tags: python
 comments: true
 ---

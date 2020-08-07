@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "[파이썬]파이썬으로 주식 등 시세를 가져오기"
-subtitle:   "PYTHON"
-categories: pro
+subtitle:   "Python"
+categories: dev
 tags: python
 comments: true
 ---

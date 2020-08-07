@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: NLP
-slug: nlp
-category: pro
+title: HTML
+slug: html
+category: dev
 menu: false
 order: 3
 ---

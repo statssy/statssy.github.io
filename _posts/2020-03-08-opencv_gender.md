@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "[이미지 인식]주피터 노트북으로 시각화한 OpenCV를 활용한 성별 및 나이 판별하기 "
-subtitle:   "DEEPLEARNING"
-categories: pro
+subtitle:   "DeepLearning"
+categories: data
 tags: deep
 comments: true
 ---

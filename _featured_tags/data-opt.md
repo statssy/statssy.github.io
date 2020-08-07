@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Book
-slug: book
-category: review
+title: Optimization
+slug: opt
+category: data
 menu: false
 order: 1
 ---

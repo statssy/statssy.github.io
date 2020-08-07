@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "[DFS와 BFS] 기본 문제를 풀며 고찰 (파이썬)- Statssy"
-subtitle:   "CodingTest"
-categories: pro
-tags: coding
+subtitle:   "프로그래머스"
+categories: alg
+tags: prs
 comments: true
 ---
 

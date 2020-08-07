@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "[프로그래머스] 다리를 지나는 트럭 (파이썬) - Statssy"
-subtitle:   "CodingTest"
-categories: pro
-tags: coding
+subtitle:   "프로그래머스"
+categories: alg
+tags: prs
 comments: true
 ---
 
