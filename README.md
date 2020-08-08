@@ -1,50 +1,51 @@
+## Github Blog
+- [https://statssy.github.io](https://zzsza.github.io)
+- 이 블로그는 [zzsza](https://github.com/zzsza/zzsza.github.io)님 블로그 테마를 기반으로 제작되었습니다
 
-## 소개
+### Structure
+- 다른 분들이 이 테마를 Fork할 경우, 사용할 수 있도록 블로그 구조에 대해 설명합니다
 
-안녕하세요. 현재 Data Scientist로 일하고 있습니다.
+```
+├── README.md
+├── _config.yml : 기본 설정이 저장된 파일
+├── _data : 유저 데이터가 저장된 폴더, author.yml만 수정하면 됨
+├── _draft : 초안 작성 폴더, 커밋해도 반영되지 않음
+├── _featured_categories : 카테고리(메뉴판의 큰 제목)
+├── _featured_tags : 카테고리의 태그(메뉴판의 소제목)
+├── _includes : 기본 홈페이지 포맷
+├── _ipynbs : ipynb 저장 폴더
+├── _js : 자바스크립트 소스 저장 폴더
+├── _layouts : 타입별 레이아웃 폴더
+├── _plugins : 플러그인 저장 폴더. 그러나 Github에서 빌드시 플러그인 사용 불가능
+├── _posts : 글 저장 폴더
+├── _sass
+├── _site : 빌드시 생기는 폴더, 신경쓸 필요 없음
+├── about.md : about에서 나타날 내용
+├── assets : css, js, img 등 저장하는 폴더
+├── favicon.ico : favicon 아이콘
+├── feed.xml
+├── index.html
+├── robots.xml
+├── search.html
+├── sitemap.xml
+├── tile-wide.png
+└── tile.png
+```
 
-데이터가 미래를 바꾼다는 것이라 생각하며, 먼 미래를 상상해보며 큰 즐거움을 느낍니다.
+- ```_config.yml```, ```_data```, ```_featured_categories```, ```_featured_tags```, ```about.md``` 내용 수정
+- ```favicon.ico```, ```tile-wide.png```, ```tile.png``` 원하는 이미지로 설정
 
-현재의 관심사는 파이썬, 최적화알고리즘, 개발 입니다.
+### 로컬 빌드
+- Ruby가 설치되어 있어야 합니다
+- Ruby 설치는 [공식 문서](https://www.ruby-lang.org/ko/documentation/installation/) 참고
 
-잘 부탁드립니다.
+```
+bundle exec jekyll serve
+```
 
+### 원격 빌드
+- Github 저장소에 Push
 
-## 약력
-
-- 현대오토에버, 최적화 e-lab, Data Scientist 재직 (2020.07 ~ 현재)
-
-- HS애드(LG그룹 인하우스, 종합광고대행사), DA팀, Data Scientist (2019.11 ~ 2020.07)
-
-- 넷마블컴퍼니, 빅데이터팀, Data Analyst (2016.02 ~ 2019.10)
-
-- 한양대학교, 응용통계학과, 석사 졸업
-
-- 한양대학교, 응용수학과, 학사 졸업
-
-
-## 수상
-
-- [제 3회 문화관광 빅데이터 분석대회 은상 수상](http://www.tourbigdata.kr/award.asp)(2015)
-
-- 제 1회 경기 빅데이터 공모전 우승(2015)
-
-- 제 1회 한양대학교 독서토론대회 우승(2012)
-
-
-## 보유 자격증
-
-- SQL개발자(SQLD)
-
-- 데이터분석 준전문가(ADSP)
-
-- 사회조사 분석사 2급
-
-- SAS Advanced
-
-- SAS Base
-
-
-## 깃허브 관리
-- [seaborn 시각화](https://github.com/statssy/seaborn_tutorial)
-
+### 글 작성
+- ```_featured_categories```, ```_featured_tags``` 설정한 후, ```_posts```에 글을 작성합니다
+- 글 제목 형태는 ```2018-01-03-title1.md``` 이런 방식처럼 작성! 날짜를 빼고 쓰면 반영되지 않습니다

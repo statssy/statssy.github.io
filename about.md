@@ -5,6 +5,7 @@ menu: true
 order: 10
 ---
 
+
 ## 소개
 
 안녕하세요. 현재 Data Scientist로 일하고 있습니다.
@@ -53,3 +54,4 @@ order: 10
 
 ## 깃허브 관리
 - [seaborn 시각화](https://github.com/statssy/seaborn_tutorial)
+

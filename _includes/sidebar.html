@@ -13,7 +13,12 @@
       <nav class="sidebar-nav heading" role="navigation">
         {% include nav.html %}
       </nav>
-    <br/>
+    <!-- search box -->
+    <form action="/search">
+      <div class="tipue_search_box">
+        <input type="text" name="q" id="tipue_search_input" placeholder="&#xF002;  Search" pattern=".{2,}" title="최소 2글자 이상" required></div>
+      <div style="clear: both;"></div>
+    </form>
     <br/>
       <div class="sidebar-box">
         {% if author.picture %}

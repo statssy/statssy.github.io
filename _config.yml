@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               statssy
+title:               꾸준함과 노련함
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -56,9 +56,8 @@ copyright:           '&copy; 2018. by statssy'
 permalink:           pretty
 
 # Pagination configuration (used by the `blog` layout)
-paginate:            8
+paginate:            5
 paginate_path:       '/page-:num/'
-
 
 # If you are upgrading form a v5 verison of Hydejack, uncomment the two lines below,
 # so that the location of the feed XML stays the same.
@@ -97,7 +96,7 @@ collections:
 #  Advanced configuration
 # -----------------------------------------------------------------------------
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
@@ -111,6 +110,7 @@ exclude:
   - package-lock.json
   - Gemfile
   - Gemfile.lock
+  - vendor
 
 kramdown:
   footnote_backlink: '&#x21a9;&#xfe0e;'
@@ -128,3 +128,12 @@ compress_html:
 
 sass:
   style:             compressed
+
+tipue_search:
+  include:
+    pages: false
+    collections: []
+  exclude:
+    files: [search.html, index.html, tags.html]
+    categories: []
+    tags: []
