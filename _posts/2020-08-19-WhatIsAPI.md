@@ -17,7 +17,7 @@ API를 공부해야 되어 일단 REST API가 뭔지 기본을 잡고 가보도�
 - REST API는 정보들이 주고받아지는데 있어서 일종의 형식(e.g 우체국 송장)
 - API란? : 기계와 기계, 소프트웨어와 소프트웨어 사이에서 수많은 요청과 교환할 소통의 창구
     - 예를 들어 기상정보가 관리되는 기상청 서버 <-> 앱들이 실시간으로 날씨정보를 받아간다.
-    - "date:191031 | place:seoul | which:temperature" <-> "17degree"
+    - ```"date:191031 | place:seoul | which:temperature" <-> "17degree"```
 - 이렇게 지정된 형식으로 요청, 명령을 받을 수 있는 수단을 API(Application Programming Interface) 라고 한다.
 
 
