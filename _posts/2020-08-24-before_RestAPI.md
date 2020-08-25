@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "[기초] RestAPI 공부전, 홈페이지 만들때 전체적인 맥락 알기"
-subtitle:   "Docker"
-categories: pro
-tags: docker
+subtitle:   "API"
+categories: dev
+tags: api
 comments: true
 ---
 
