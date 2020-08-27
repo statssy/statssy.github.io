@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[리눅스] RestAPI 공부전, 홈페이지 만들때 전체적인 맥락 알기"
-subtitle:   "API"
+title:  "[리눅스] 리눅스 설치 및 명령어 정리 - CentOS7"
+subtitle:   "LINUX"
 categories: dev
-tags: api
+tags: linux
 comments: true
 ---
 
