@@ -28,5 +28,6 @@ comments: true
 - container 에서 git 깔기 : ```> yum install git```
 - container 만들어져있는거 clone 하기 : ```> docker commit 원root옆문자 이름``` ```예시) > docker commit f7b63~ dms-centos```
 
-[참고1 : 도커 실행](https://hello-bryan.tistory.com/160)
+[참고1 : 도커 실행](https://hello-bryan.tistory.com/160)  
+
 [참고2 : 도커 클론](https://www.youtube.com/watch?v=Hul3MuMP-tM)
