@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[리눅스] RestAPI 공부전, 홈페이지 만들때 전체적인 맥락 알기"
+title:  "[도커] Window에서 도커 CentOS 컨테이너 실행하기"
 subtitle:   "Docker"
 categories: dev
 tags: docker
@@ -8,6 +8,7 @@ comments: true
 ---
 
 저번에 도커에 대한 강의를 들었지만 까먹기도했고 도커에서 CentOS 컨테이너를 실행해야 해서 정리겸 핵심만 정리한다.
+
 ---
 
 ### 도커에 CentOS 설치 및 컨테이너 실행
