@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "[기초] Flask RestFul API 서버 만들기"
-subtitle:   "API"
+subtitle:   "Flask"
 categories: dev
-tags: api
+tags: flask
 comments: true
 ---
 
