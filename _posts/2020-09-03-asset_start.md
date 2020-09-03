@@ -3,7 +3,7 @@ layout: post
 title:  "[초보] 금융지식의 중요성, 자산과 부채 - 정리본"
 subtitle:   "story"
 categories: invest
-tags: invest
+tags: story
 comments: true
 ---
 
