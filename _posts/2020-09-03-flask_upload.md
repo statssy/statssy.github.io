@@ -23,7 +23,6 @@ Flask에 대해서 좀 더 파야겠다. 오늘은 플라스크로 파일 업로
 
 > ```templates/upload.html```
 
-{ % highlight html linenos % }
 ```html
 <html>
     <body>
@@ -35,7 +34,6 @@ Flask에 대해서 좀 더 파야겠다. 오늘은 플라스크로 파일 업로
     </body>
 </html>
 ```
-{ % endhighlight % }
 
 
 
@@ -48,7 +46,6 @@ Flask에 대해서 좀 더 파야겠다. 오늘은 플라스크로 파일 업로
 
 > ```upload.html```
 
-{ % highlight python linenos % }
 ```python
 from flask import Flask, render_template, request
 from werkzeug.utils import secure_filename
@@ -72,7 +69,6 @@ if __name__ == '__main__':
     # 서버 실행
     app.run(debug = True)
 ```
-{ % endhighlight % }
 
 
 [참고 사이트](https://niceman.tistory.com/150?category=940948)
