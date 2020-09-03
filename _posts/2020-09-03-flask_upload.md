@@ -20,8 +20,10 @@ Flask에 대해서 좀 더 파야겠다. 오늘은 플라스크로 파일 업로
     그렇게 하지 않으면 웹 서버로 데이터를 넘길때 파일의 경로명만 전송되고 파일 내용이 전송되지 않기 때문이다.
     그리고 이때 METHOD 애트리뷰트에는 'POST' 값을 지정해야 한다.
 
- 
+
 > ```templates/upload.html```
+
+{ % highlight html linenos % }
 ```html
 <html>
     <body>
@@ -33,6 +35,8 @@ Flask에 대해서 좀 더 파야겠다. 오늘은 플라스크로 파일 업로
     </body>
 </html>
 ```
+{ % endhighlight % }
+
 
 
 ### 플라스크 파이썬 코드
@@ -40,8 +44,12 @@ Flask에 대해서 좀 더 파야겠다. 오늘은 플라스크로 파일 업로
     - 3번라인 : Flask 객체 app 할당
     - 7번라인 : 브라우저 주소창에 /upload 요청시에 `upload.html`을 렌더링 하는 함수
     - 12번라인 : `upload.html`에서 form submit 시에 request된 파일 데이터를 저장하는 함수
+
+
 > ```upload.html```
-```python class:"lineNo"
+
+{ % highlight python linenos % }
+```python
 from flask import Flask, render_template, request
 from werkzeug.utils import secure_filename
 app = Flask(__name__)
@@ -64,5 +72,7 @@ if __name__ == '__main__':
     # 서버 실행
     app.run(debug = True)
 ```
+{ % endhighlight % }
+
 
 [참고 사이트](https://niceman.tistory.com/150?category=940948)
