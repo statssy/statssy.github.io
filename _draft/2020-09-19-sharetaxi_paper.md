@@ -14,7 +14,7 @@ Dynamic Shared-Taxi Dispatch Algorithm with Hybrid Simulated Annealing Paper Sum
 # Dynamic Shared-Taxi Dispatch Algorithm with Hybrid Simulated Annealing
 
 
-## ABSTRACT
+## 0. ABSTRACT
 
 ### 0-1 Problem
 
@@ -54,3 +54,16 @@ Dynamic Shared-Taxi Dispatch Algorithm with Hybrid Simulated Annealing Paper Sum
 20.09.19 Summary
 
 ---
+
+
+# 단어 공부
+
+- in term of : ~ 관하여
+- concept : 개념
+- investigate : 조사하다
+- collective benefits : 집단적 혜택
+- propose : 제안
+- employ : 이용하다.
+- excessive : 과도한
+- be applied to : 사용되다.
+- reveal : 드러내다.
