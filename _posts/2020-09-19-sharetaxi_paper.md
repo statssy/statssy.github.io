@@ -7,10 +7,13 @@ tags: opt
 comments: true
 ---
 
-How sharing-ride taxi services can be improved by HSA algorithm.  
-Study slowly but punctual
+Dynamic Shared-Taxi Dispatch Algorithm with Hybrid Simulated Annealing Summary
 
 ---
+
+### Schedule
+20.09.19 : Abstract Summary
+<br>
 
 # Dynamic Shared-Taxi Dispatch Algorithm with Hybrid Simulated Annealing
 
@@ -48,10 +51,5 @@ Study slowly but punctual
 - Reveal that allowing ride-sharing for taxicabs increases productivity over the various demand levels 
 
 - HSA can be considered as a suitable solution to maximize the system
-
-<br>
-<br>
-
-20.09.19 Summary
 
 ---
