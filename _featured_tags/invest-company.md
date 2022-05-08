@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: 공모주
-slug: public
+title: 기업분석
+slug: company
 category: invest
 menu: false
-order: 4
+order: 3
 ---
