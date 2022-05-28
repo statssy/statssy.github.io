@@ -5,6 +5,7 @@ subtitle:   "Media"
 categories: english
 tags: med
 comments: true
+published: true
 ---
 TONES AND I - Dance Monkey 팝송 공부하기
 ---
@@ -21,7 +22,7 @@ TONES AND I - Dance Monkey 팝송 공부하기
 9. 같이 따라부르기
 ```
 
-{% include youtubeplayer.html id="-crgFPl2eaPE" %}
+{% include youtubeplayer.html id="crgFPl2eaPE" %}
 
 ```
 They say oh my God I see the way you shine
