@@ -90,7 +90,7 @@ published: true
             * IBM 인공지능 AIEF ETF도 시장 못이김(수백만달러 인공지능도 지는데 개인 수준 퀀트, 시스템 매매 꿈깨라)
     * 알파(초과수익) 달성이 가능하냐? - 나와 여러분은 불가능 하다. [참고](https://www.youtube.com/watch?v=bdnGLnrAh6M)
         * 50년동안 투자해서 S&P를 이길 확률은 2%
-        ![image](https://user-images.githubusercontent.com/28734765/178541820-3e61bcef-d821-4c96-a21e-72070cff6752.png)
+        * ![image](https://user-images.githubusercontent.com/28734765/178541820-3e61bcef-d821-4c96-a21e-72070cff6752.png)
         * 버크셔 헤서웨이 조차 3년 연속 S&P에 언더퍼폼했는데 버티기 힘들거다.(2003~2005)
         * 어차피 알파 수익 낼려고 개별 주식 해도 내 부의 전체를 넣기도 힘들다.
     * 나는 10년 넘게 알파수익을 거뒀어. 그래서 나를 따르라!! 과연 그럴까 - 그 알파 수익이 95%의 신뢰도로 운이 아니라 자신의 실력이라는 것을 검증하려면 시간이 얼마나 걸릴까 [참고](https://www.youtube.com/watch?v=ehTnBqCGPxY)
