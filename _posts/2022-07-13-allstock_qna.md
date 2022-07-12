@@ -8,7 +8,8 @@ comments: true
 published: true
 ---
 
-진짜 게임보다 stockclimbers 선생님의 유튜브가 더 즐겁다.... 내 머리속도 정리할겸 과세이연 3총사 관련 Q&A 모음집을 정리했다. [참고](https://www.youtube.com/watch?v=A8nrsavwPws)
+진짜 게임보다 stockclimbers 선생님의 유튜브가 더 즐겁다....  
+내 머리속도 정리할겸 과세이연 3총사 관련 Q&A 모음집을 정리했다. [참고](https://www.youtube.com/watch?v=A8nrsavwPws)
 
 ---
 
