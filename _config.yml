@@ -20,6 +20,7 @@ tagline:             바쁘다바빠 현대사회 알쏭달쏭 IT, 데이터 세
 description:         >
   I determine my future all by myself
 
+future:              true
 # This should be the same author as first entry in `_data/authors.yml`
 author:
   name:              Statssy Lee
