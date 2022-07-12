@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[주식] stockclimbers선생님의 유튜브 정리"
+title:  "[주식] 인덱스 투자를 하기로 한 이유"
 subtitle:   "stock"
 categories: invest
 tags: stock
