@@ -11,7 +11,7 @@ comments: true
 
 요즘 무기력증에 빠진 김에 공부 자극도 받을겸 정리
 
-{% include youtubeplayer.html id="-l_orynQffho" %}
+{% include youtubeplayer.html id="l_orynQffho" %}
 
 ### 내가 학습을 주체적으로 하기 위해서는 기본적인 대전제가 필요
 
