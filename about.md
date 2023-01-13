@@ -21,19 +21,6 @@ order: 10
 잘 부탁드립니다.
 
 
-## 약력
-
-- 현대오토에버, 최적화 e-lab, Data Scientist 재직 (2020.07 ~ 현재)
-
-- HS애드(LG그룹 인하우스, 종합광고대행사), DA팀, Data Scientist (2019.11 ~ 2020.07)
-
-- 넷마블컴퍼니, 빅데이터팀, Data Analyst (2016.02 ~ 2019.10)
-
-- 한양대학교, 응용통계학과, 석사 졸업
-
-- 한양대학교, 응용수학과, 학사 졸업
-
-
 ## 수상
 
 - [제 3회 문화관광 빅데이터 분석대회 은상 수상](http://www.tourbigdata.kr/award.asp)(2015)
@@ -55,7 +42,4 @@ order: 10
 
 - SAS Base
 
-
-## 깃허브 관리
-- [seaborn 시각화](https://github.com/statssy/seaborn_tutorial)
 
