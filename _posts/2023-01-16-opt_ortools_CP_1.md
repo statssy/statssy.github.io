@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[최적화] Google OR-Tools 제약조건 최적화 CP-SAT Solver"
+title: "[최적화] Google OR-Tools 제약조건 최적화 (1)CP-SAT Solver"
 subtitle: "Optimization"
 categories: data
 tags: opt
