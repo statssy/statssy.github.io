@@ -120,4 +120,4 @@ if __name__ == '__main__':
 ```
 
 ---
-참고 : https://developers.google.com/optimization/cp/Cryptarithmetic
+참고 : https://developers.google.com/optimization/cp/cryptarithmetic
