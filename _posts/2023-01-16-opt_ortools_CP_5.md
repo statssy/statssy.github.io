@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[최적화] Google OR-Tools 제약조건 최적화 (6)Setting solver limits"
+title: "[최적화] Google OR-Tools 제약조건 최적화 (5)Setting solver limits"
 subtitle: "Optimization"
 categories: data
 tags: opt
@@ -43,7 +43,7 @@ def SolveWithTimeLimitSampleSat():
     solver = cp_model.CpSolver()
 
     # Sets a time limit of 10 seceonds.
-    solver.parameters.max_time_in_seconds = 0.001
+    solver.parameters.max_time_in_seconds = 10
 
     status = solver.Solve(model)
 
