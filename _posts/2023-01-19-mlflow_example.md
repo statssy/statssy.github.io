@@ -80,7 +80,7 @@ MLflow Example을 한번 해보자. 모델서빙 기능은 미친게 확실하�
 - GridSearchCV를 돌면 parent run(최적)과 child runs(각각 파라미터로 만든거)로 구분된다. 이걸 잘 이용하면 파라미터 최적화를 이용해서 활용할수 있을듯
 - 참고 : https://dailyheumsi.tistory.com/258
   
-# MLFlow Tracking 튜토리얼
+### MLFlow Tracking 튜토리얼
 - 같은 실험인데 그룹별로 나눠서 할때, 활용하면 좋을 자료
 - 참고 : https://pizzathief.oopy.io/mlflow-tracking-tutorial#8454a753-ca84-4759-9190-c32cbd1d8d35
 
