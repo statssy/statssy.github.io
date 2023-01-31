@@ -7,7 +7,7 @@ tags: opt
 comments: true
 ---
 
-Google OR-Tools Linear Optimization (6)Setting solver limitsm 에 대한 간단한 정리
+Google OR-Tools Linear Optimization (5)Setting solver limits 에 대한 간단한 정리
 
 ---
   
