@@ -14,13 +14,13 @@ comments: true
 [참고 블로그](https://5ohyun.tistory.com/65)에 정리가 너무 잘되어있어서 보고 내 식대로 정리
   
 ### Lecture 0. 데이터 분석 사이클
-- 0. 문제정의 : 무엇을 분석할지 정함
-- 1. 데이터 수집 :
-- 2. 데이터 전처리 : 기초통계 및 Transform 등
-- 3. 데이터 정리 : 데이터 한곳에 담기(Data Warehouse), 바꾸기 및 정리(Data Mart) + 분리(Data Split)
+- 0) 문제정의 : 무엇을 분석할지 정함
+- 1) 데이터 수집 :
+- 2) 데이터 전처리 : 기초통계 및 Transform 등
+- 3) 데이터 정리 : 데이터 한곳에 담기(Data Warehouse), 바꾸기 및 정리(Data Mart) + 분리(Data Split)
     - DataMart 목적 : 웨어하우스를 변경하지 않고 복사하여 조금 더 목적에 맞게 전처리
-- 4. 데이터분석 : 기초통계 + 모델링 + 검증 + 에러분석(얼마나향상될지[참고](http://taewan.kim/tutorial_manual/ml_yearning/030.basic_error_analysis/14/))
-- 5. 결과정리 : 시각화 + 의사결정 + 지식화 + 공유
+- 4) 데이터분석 : 기초통계 + 모델링 + 검증 + 에러분석(얼마나향상될지[참고](http://taewan.kim/tutorial_manual/ml_yearning/030.basic_error_analysis/14/))
+- 5) 결과정리 : 시각화 + 의사결정 + 지식화 + 공유
   
 ### Lecture 1. 시계열 데이터 기초
 - 횡단면 데이터 : 특점시점+다수독립변수
@@ -83,8 +83,8 @@ comments: true
   
 ### Lecture 8. 시계열 데이터 전처리
 - 전처리 방법
-    - 1. Scaling : 상황에 맞게 스케일링 하면 됨(StandardScaler, minmaxScaler 등)
-    - 2. 다중공선성 제거 : VIF, PCA를 통해 변수 선택
+    - (1) Scaling : 상황에 맞게 스케일링 하면 됨(StandardScaler, minmaxScaler 등)
+    - (2) 다중공선성 제거 : VIF, PCA를 통해 변수 선택
         - 1) X와 Y 상관관계 확인
         - 2) X 변수들간의 상관관계 확인
         - 3) Variance Inflation Factor(VIF)

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "[최적화] Google OR-Tools 제약조건 최적화 (1)CP-SAT Solver"
+title: "[최적화] Google OR-Tools Linear Optimization (1)CP-SAT Solver"
 subtitle: "Optimization"
 categories: data
 tags: opt
 comments: true
 ---
 
-Google OR-Tools 제약조건 최적화 CP-SAT Solver 에 대한 간단한 정리
+Google OR-Tools Linear Optimization CP-SAT Solver 에 대한 간단한 정리
 
 ---
   

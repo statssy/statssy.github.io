@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "[최적화] Google OR-Tools 제약조건 최적화 (3)Cryptarithmetic Puzzles"
+title: "[최적화] Google OR-Tools Linear Optimization (3)Cryptarithmetic Puzzles"
 subtitle: "Optimization"
 categories: data
 tags: opt
 comments: true
 ---
 
-Google OR-Tools 제약조건 최적화 (3)Cryptarithmetic Puzzles 에 대한 간단한 정리
+Google OR-Tools Linear Optimization (3)Cryptarithmetic Puzzles 에 대한 간단한 정리
 
 ---
   
