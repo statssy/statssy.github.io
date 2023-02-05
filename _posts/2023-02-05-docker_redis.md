@@ -82,6 +82,6 @@ GET helloworld
 
 ---
 (1) [참고1](https://redis.io/docs/ui/cli/)  
-(2) [참고2](https://soyoung-new-challenge.tistory.com/m/117)
+(2) [참고2](https://soyoung-new-challenge.tistory.com/m/117)  
 (3) [참고3](https://bskyvision.com/entry/docker-docker-compose%EB%A1%9C-Redis-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0)  
 (4) [참고4](https://jungwoong.tistory.com/87)
