@@ -88,15 +88,13 @@ data["missing값을 가지는 열이름"] = data["missing값을 가지는 열이
 colList = ["Name", "Birth Date", "State", "Year", "Link"]
 data = pd.read_csv("D:/People_data.csv", usecols=colList,
 dtype = {"Year":np.int16, "State":"category"})
-
 data.info(memory_usage = "deep")
 ```
-
+  
 ## 7. 청크로 CSV 데이터 읽기
 - pandas 읽을때 행 수가 너무많아서 메모리 로드 할수 없을때는 chunksize 인수로 읽으면됨
 ```python
 for chunk in pd.read_csv("D:/People_data.csv", chunksize=5000):
-
 ## process chunk
 pass
 ```
