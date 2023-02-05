@@ -91,7 +91,7 @@ comments: true
             - 독립변수를 다른 독립변수들의 선형회귀로 나타내, 가장 상호의존적인 변수 제거
             - 특정 변수를 눈으로 보고 삭제 가능
             - Principal Component Analysis(PCA)로 소차원으로 바꿈, 특정변수를 제거하는 것이 아니라 눈으로 확인 힘듦
-    - 3. 의존성이 높은 변수들에 패널티를 주는 정규화
+    - (3) 의존성이 높은 변수들에 패널티를 주는 정규화
   
 ### Lecture 9. 시계열 머신러닝 알고리즘 
 - Standard Regression, Lidge Regression, Lasso Regression, Elastic Net 식, 장단점 체크
