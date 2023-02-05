@@ -6,7 +6,9 @@ categories: dev
 tags: docker
 comments: true
 ---
-Redis가 뭔지, docker로 빠르게 사용할수 있는지 내가 활용할수 있는지 확인겸 정리
+
+Redis란 무엇인지, docker로 빠르게 사용할수 있는지 내가 활용할수 있는지 확인겸 정리
+
 ---
 
 ### Redis란
