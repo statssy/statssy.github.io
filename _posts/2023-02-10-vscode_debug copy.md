@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[VSCODE] VSCODE에서 디버깅 요약"
+title:  "[VSCODE] VSCODE에서 디버깅하기 요약"
 subtitle:   "Python"
 categories: dev
 tags: python
