@@ -82,7 +82,7 @@ routing.SetArcCostEvaluatorOfAllVehicles(transit_callback_index)
   
 ### Set search parameters
 - 첫번째 솔루션을 찾기위한 김본 검색 매개변수와 휴리스틱 메서드를 설정
-- 아래 코드에서는 ```PATH_CHEAPEST_ARC``로 설정한다. 그러면 최소 가중치 엣지를 추가하면서 솔버의 초기 경로를 만듬(다른 옵션들도 가능)
+- 아래 코드에서는 ```PATH_CHEAPEST_ARC``로 설정한다. 그러면 최소 가중치 노드를 추가하면서 솔버의 초기 경로를 만듬(다른 옵션들도 가능)
   
 ```python
 search_parameters = pywrapcp.DefaultRoutingSearchParameters()
