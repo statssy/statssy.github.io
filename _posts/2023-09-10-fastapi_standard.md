@@ -54,7 +54,7 @@ pydantic v2로 넘어가면서 안되는 것도 좀 많았음. v1 기준으로 �
     - sqlalchemy : ORM, Query, Transaction, Connection Pooling 기능 사용 가능한 python 라이브러리
     - ORM : 관계형 데이터베이스를 객체지향 프로그래밍에 대응하여 사용하는 프로그래밍 기술
         - 하나의 테이블 = 하나의 클래스, 하나의 행 = 하나의 객체)
-        - 데이터 베이스가 (id|1, username|AB) 라면 python은 User(id=1, username='AB')
+        - 데이터 베이스가 (id 1, username AB) 라면 python은 ```User(id=1, username='AB')```
 - 아래 내용은 강의 실습 따라서 하면 될듯. session 관련, 리팩토링성 내용이 많음
     - 전체/단일GET, POST, PATCH, DELETE
   
